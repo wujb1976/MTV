@@ -189,7 +189,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4m
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8#http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTcctv-17/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV4K 超高清
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV-4K 超高清
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="央视频道",CETV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
