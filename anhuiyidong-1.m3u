@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视频道",CCTV-2 财经
